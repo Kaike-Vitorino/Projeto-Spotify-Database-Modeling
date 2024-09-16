@@ -1,33 +1,33 @@
-# Projeto Spotify Database Modeling
+# Spotify Database Modeling Project
 
-Bem-vindo ao meu projeto da modelagem do banco de dados do Spotify! Aqui, você encontrará uma descrição detalhada da estrutura do banco de dados.
+Welcome to my Spotify database modeling project! Here, you will find a detailed description of the database structure.
 
-## Sobre o Projeto
+## About the Project
 
-Este projeto visa fornecer uma estrutura organizada e eficiente para armazenar informações relacionadas ao Spotify, o principai serviço de streaming de música do mundo. A modelagem do banco de dados é essencial para garantir que as informações sejam armazenadas de forma consistente e acessível para consulta e análise.
+This project aims to provide an organized and efficient structure for storing information related to Spotify, the world’s leading music streaming service. The database modeling is essential to ensure that the data is stored consistently and is easily accessible for queries and analysis.
 
-## Modelos
+## Models
 
-- **Modelo Conceitual:**
-  ![Modelo Conceitual](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Modelos/Modelo%20Conceitual.png)
+- **Conceptual Model:**
+  ![Conceptual Model](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Modelos/Modelo%20Conceitual.png)
 
-- **Modelo Lógico:**
-  ![Modelo Lógico](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Modelos/Modelo%20Logico.png)
+- **Logical Model:**
+  ![Logical Model](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Modelos/Modelo%20Logico.png)
 
-## Documentação
+## Documentation
 
-- **Modelo Lógico Normalizado (PDF):**
-  [PDF do Modelo Lógico Normalizado](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Normaliza%C3%A7%C3%A3o%20e%20Documenta%C3%A7%C3%A3o/Modelo%20logico%20escrito%20e%20NORMALIZADO.pdf)
+- **Normalized Logical Model (PDF):**
+  [PDF of the Normalized Logical Model](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Normaliza%C3%A7%C3%A3o%20e%20Documenta%C3%A7%C3%A3o/Modelo%20logico%20escrito%20e%20NORMALIZADO.pdf)
 
-- **Documentação do Banco de Dados (PDF):**
-  [PDF da Documentação](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Normaliza%C3%A7%C3%A3o%20e%20Documenta%C3%A7%C3%A3o/Documentacao%20BDD.pdf)
+- **Database Documentation (PDF):**
+  [PDF of the Documentation](https://github.com/Kaike-Vitorino/Modelagem-BDados-Spotify/blob/main/Normaliza%C3%A7%C3%A3o%20e%20Documenta%C3%A7%C3%A3o/Documentacao%20BDD.pdf)
 
-## Descrição
+## Description
 
-- O modelo conceitual representa as entidades principais do sistema e seus relacionamentos de forma abstrata. Já o modelo lógico traduz essas abstrações em uma estrutura de tabelas, indicando chaves primárias, estrangeiras e outros atributos.
-- O modelo logico Normalizado é parte crucial da nossa documentação, pois descreve como as tabelas do banco de dados estão organizadas de acordo com as formas normais.
-- A documentação inclui detalhes sobre a descrição geral, o diagrama do esquema e a descrição das tabelas e colunas do banco de dados.
+- The conceptual model represents the main entities of the system and their relationships abstractly. The logical model translates these abstractions into a table structure, indicating primary keys, foreign keys, and other attributes.
+- The normalized logical model is a crucial part of our documentation, as it describes how the database tables are organized according to normal forms.
+- The documentation includes details about the general description, schema diagram, and the description of the database tables and columns.
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT.
+This project is licensed under the MIT License.
